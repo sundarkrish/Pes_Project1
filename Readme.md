@@ -4,6 +4,7 @@ Team : Sundar Krishnakumar
 ### Directory structure
 
 Parent Directory : Pes_Project1
+```
 ├── exec
 │   ├── one
 │   ├── three
@@ -40,6 +41,8 @@ Parent Directory : Pes_Project1
 ├── ProgramOne.out
 ├── ProgramThree.out
 └── ProgramTwo.out
+```
+
 ### Directory description
 - exec  - Contains all the executable files.
 - obj - Contains all the object files.
@@ -83,9 +86,12 @@ These individual commands execute the programs one,two and three respectively.Ru
 ./exec/three
 ```
 ### Output
-Program One :
-Program Two :
-Program Three :
+Program One : \
+![Program1](https://github.com/sundarkrish/Pes_Project1/blob/master/images/program1.png) \
+Program Two :\
+![Program2](https://github.com/sundarkrish/Pes_Project1/blob/master/images/program2.png) \
+Program Three : \
+![Program3](https://github.com/sundarkrish/Pes_Project1/blob/master/images/program3.png) \
 
 NOTE : 
  - In program one, negative zeros are considered equal to positive zeros as c language uses 2s compliment internally for comparison.
