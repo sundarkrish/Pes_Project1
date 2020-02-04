@@ -103,9 +103,9 @@ Program Three : \
 NOTE : 
  - In program one, negative zeros are considered equal to positive zeros as c language uses 2s compliment internally for comparison.
 
- - In program two : null,space,backspace,horizontal tab,vertical tab,new line,form feed,carriage return are considered as whitespace characters.And apart from the mentioned types : lower case, upper case, digit,white space and special character other ascii characters are classified as Others(like DEL, Esc)
+ - In program two : null,space,backspace,horizontal tab,vertical tab,new line,form feed,carriage return are considered as whitespace characters.And apart from the mentioned types : lower case, upper case, digit,white space and special character.Other ascii characters are classified as Others(like DEL, Esc)
 
- - In program three, only if exactly three out of the last 4 bits of the 16 bit binary is ON(i.e.1) the program gives a TRUE output.
+ - In program three, only if exactly three out of the last four bits of the 16 bit binary is ON(i.e.1) the program gives a TRUE output.
  
  ## References :
  Decimal to binary conversion : \
@@ -114,8 +114,9 @@ NOTE :
 1. https://codeforwin.org/2015/08/c-program-to-find-twos-complement-of-binary-number.html
 
 ascii:
-1. https://icecube.wisc.edu/~dglo/c_class/charfunc.html
-2. https://www.petefreitag.com/cheatsheets/ascii-codes/
+1. https://canvas.colorado.edu/files/13180389/download?download_frd=1 
+2. https://icecube.wisc.edu/~dglo/c_class/charfunc.html
+3. https://www.petefreitag.com/cheatsheets/ascii-codes/
 
 bit rotation in c:
 1. https://codeforwin.org/2017/12/c-program-rotate-number-bits.html
