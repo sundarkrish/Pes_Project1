@@ -1,0 +1,112 @@
+No. of inputs:11
+
+Value:-7  Radix:10  Operand Size:4
+                                          Maximum        Minimum
+Binary                    0b0111          0b1111          0b0000
+Decimal                   7               15              0
+Octal                     07              017             0
+Hexadecimal               0x7             0xf             0x0
+Signed one's complement   0b1000          0b0111          0b1000
+Signed two's complement   0b1001          0b0111          0b1000
+Signed magnitude          0b1111          0b0111          0b1111
+
+
+
+Value:-  Radix:9  Operand Size:4
+Allowed radix options: 8,10,16
+Allowed operand sizes: 4,8,16
+
+
+
+Value:-7  Radix:10  Operand Size:5
+Allowed radix options: 8,10,16
+Allowed operand sizes: 4,8,16
+
+
+Value:-10  Radix:10  Operand Size:4
+                                          Maximum        Minimum
+Binary                    0b1010          0b1111          0b0000
+Decimal                   10               15              0
+Octal                     012              017             0
+Hexadecimal               0xa             0xf             0x0
+Signed one's complement   Error          0b0111          0b1000
+Signed two's complement   Error          0b0111          0b1000
+Signed magnitude          Error          0b0111          0b1111
+
+
+Value:236  Radix:10  Operand Size:8
+                                          Maximum        Minimum
+Binary                    0b11101100     0b11111111     0b00000000
+Decimal                   236               255            0
+Octal                     0354              0377           0
+Hexadecimal               0xec              0xff           0x0
+Signed one's complement   Error          0b01111111     0b10000000
+Signed two's complement   Error          0b01111111     0b10000000
+Signed magnitude          Error          0b01111111     0b11111111
+
+
+Value:0354  Radix:8  Operand Size:8
+                                          Maximum        Minimum
+Binary                    0b11101100     0b11111111     0b00000000
+Decimal                   236               255            0
+Octal                     0354              0377           0
+Hexadecimal               0xec              0xff           0x0
+Signed one's complement   Error          0b01111111     0b10000000
+Signed two's complement   Error          0b01111111     0b10000000
+Signed magnitude          Error          0b01111111     0b11111111
+
+
+Value:0xeb  Radix:16  Operand Size:8
+                                          Maximum        Minimum
+Binary                    0b11101011     0b11111111     0b00000000
+Decimal                   235               255            0
+Octal                     0353              0377           0
+Hexadecimal               0xeb              0xff           0x0
+Signed one's complement   Error          0b01111111     0b10000000
+Signed two's complement   Error          0b01111111     0b10000000
+Signed magnitude          Error          0b01111111     0b11111111
+
+
+Value:-125  Radix:10  Operand Size:8
+                                          Maximum        Minimum
+Binary                    0b01111101     0b11111111     0b00000000
+Decimal                   125               255            0
+Octal                     0175              0377           0
+Hexadecimal               0x7d              0xff           0x0
+Signed one's complement   0b10000010     0b01111111     0b10000000
+Signed two's complement   0b10000011     0b01111111     0b10000000
+Signed magnitude          0b11111101     0b01111111     0b11111111
+
+
+Value:65400  Radix:10  Operand Size:8
+                                          Maximum        Minimum
+Binary                    Error          0b11111111     0b00000000
+Decimal                   Error          255            0
+Octal                     Error          0377           0
+Hexadecimal               Error          0xff           0x0
+Signed one's complement   Error          0b01111111     0b10000000
+Signed two's complement   Error          0b01111111     0b10000000
+Signed magnitude          Error          0b01111111     0b11111111
+
+
+Value:65400  Radix:10  Operand Size:16
+                                                  Maximum               Minimum
+Binary                    0b1111111101111000     0b1111111111111111     0b0000000000000000
+Decimal                   65400                         65535               0
+Octal                     0177570                      0177777              0
+Hexadecimal               0xff78                       0xffff              0x0                   
+Signed one's complement   Error          0b0111111111111111     0b1000000000000000
+Signed two's complement   Error          0b0111111111111111     0b1000000000000000
+Signed magnitude          Error          0b0111111111111111     0b1111111111111111
+
+
+Value:-32701  Radix:10  Operand Size:16
+                                                  Maximum               Minimum
+Binary                    0b0111111110111101     0b1111111111111111     0b0000000000000000
+Decimal                   32701                         65535               0
+Octal                     077675                       0177777              0
+Hexadecimal               0x7fbd                       0xffff              0x0                   
+Signed one's complement   0b1000000001000010     0b0111111111111111     0b1000000000000000
+Signed two's complement   0b1000000001000011    0b0111111111111111     0b1000000000000000
+Signed magnitude          0b1111111110111101     0b0111111111111111     0b1111111111111111
+
