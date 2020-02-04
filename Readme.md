@@ -108,6 +108,8 @@ NOTE :
  - In program three, only if exactly three out of the last 4 bits of the 16 bit binary is ON(i.e.1) the program gives a TRUE output.
  
  ## References :
+ Decimal to binary conversion : \
+![Dec2bin](https://github.com/sundarkrish/Pes_Project1/blob/master/images/dec_to_bin.png) \
  2s compliment:
 1. https://codeforwin.org/2015/08/c-program-to-find-twos-complement-of-binary-number.html
 
